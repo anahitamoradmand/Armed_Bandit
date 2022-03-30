@@ -1,4 +1,4 @@
-# RL
+# Reinforcement Learning - Armed Bandit
 
 2-armed Bandit problem:
 
